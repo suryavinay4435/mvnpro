@@ -7,7 +7,7 @@
 
 <body bgcolor="#0924CB">
 <center>
-<h2> <font color="#EEE8E4"> Welcome TO KartikeyaSoft DevOps Deployment  </font> </h2>
+<h2> <font color="#EEE8E4"> Welcome TO KartikeyaSoft DevOps Deployment TOO </font> </h2>
 </center>	
 </body>
 </html>
